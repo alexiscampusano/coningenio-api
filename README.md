@@ -32,8 +32,8 @@ Download and install Docker Desktop from [https://www.docker.com/products/docker
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd coningenio-api-full
+git clone https://github.com/alexiscampusano/coningenio-api
+cd coningenio-api
 ```
 
 ### 2. Start the containers
