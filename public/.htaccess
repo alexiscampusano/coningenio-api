@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Solo procesar rutas de API con index.php
+    RewriteCond %{REQUEST_URI} ^/api/ [NC]
+    RewriteRule ^ index.php [L]
+</IfModule>

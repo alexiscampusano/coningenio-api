@@ -1,0 +1,47 @@
+services:
+  app:
+    image: php:8.2-apache-bullseye
+    container_name: coningenio-app
+    volumes:
+      - .:/var/www/html
+      - ./000-default.conf:/etc/apache2/sites-available/000-default.conf
+      - ./storage:/var/www/html/storage
+    ports:
+      - "8080:80"
+    depends_on:
+      - mysql
+    networks:
+      - app-network
+    environment:
+      - APACHE_DOCUMENT_ROOT=/var/www/html/public
+    command: >
+      bash -c "apt-get update &&
+               apt-get install -y default-mysql-client libpq-dev &&
+               docker-php-ext-install pdo pdo_mysql &&
+               a2enmod rewrite &&
+               echo 'ServerName localhost' >> /etc/apache2/apache2.conf &&
+               sed -i 's/AllowOverride None/AllowOverride All/g' /etc/apache2/apache2.conf &&
+               mkdir -p /var/www/html/storage/logs &&
+               chmod -R 777 /var/www/html/storage &&
+               apache2-foreground"
+
+  mysql:
+    image: mysql:5.7
+    container_name: coningenio-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: secret123
+      MYSQL_DATABASE: coningenio
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+      - ./database/migrations:/docker-entrypoint-initdb.d
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  mysql-data:

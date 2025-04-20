@@ -1,0 +1,243 @@
+[2025-04-20 15:55:52] INFO: Starting data synchronization process
+[2025-04-20 15:55:55] INFO: Data synchronization completed successfully
+[2025-04-20 16:00:28] INFO: Starting data synchronization process
+[2025-04-20 16:00:30] INFO: Data synchronization completed successfully
+[2025-04-20 16:03:57] INFO: Starting data synchronization process
+[2025-04-20 16:04:00] INFO: Data synchronization completed successfully
+[2025-04-20 16:04:03] DEBUG: Processing request: GET /api/v1/services/16
+[2025-04-20 16:04:03] DEBUG: Processing request: GET /api/v1/services/16
+[2025-04-20 16:04:04] DEBUG: Processing request: GET /api/v1/services/16
+[2025-04-20 16:04:04] DEBUG: Processing request: GET /api/v1/services/16
+[2025-04-20 16:04:04] DEBUG: Processing request: GET /api/v1/services/16
+[2025-04-20 16:04:04] DEBUG: Processing request: GET /api/v1/services/16
+[2025-04-20 16:04:05] DEBUG: Processing request: GET /api/v1/services/16
+[2025-04-20 16:04:07] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:04:07] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:04:14] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:04:14] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:04:19] DEBUG: Processing request: GET /api/v1/services/14
+[2025-04-20 16:04:27] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:04:32] DEBUG: Processing request: GET /api/v1/services/16
+[2025-04-20 16:04:35] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:04:35] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:05:37] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:05:37] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:05:38] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:05:38] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:05:39] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:05:39] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:05:39] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:05:39] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:05:45] DEBUG: Processing request: GET /api/v1/about-us/
+[2025-04-20 16:05:45] WARNING: No route found for: GET /api/v1/about-us/
+[2025-04-20 16:05:52] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:05:53] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:05:57] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:05:58] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:06:00] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:06:01] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:06:07] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:06:14] DEBUG: Processing request: GET /api/v1/about-us/30
+[2025-04-20 16:06:23] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:06:39] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:07:01] DEBUG: Processing request: GET /api/v1/services/14
+[2025-04-20 16:07:07] INFO: Starting data synchronization process
+[2025-04-20 16:07:10] INFO: Data synchronization completed successfully
+[2025-04-20 16:07:16] DEBUG: Processing request: GET /api/v1/services/14
+[2025-04-20 16:07:16] DEBUG: Processing request: GET /api/v1/services/14
+[2025-04-20 16:07:17] DEBUG: Processing request: GET /api/v1/services/14
+[2025-04-20 16:07:17] DEBUG: Processing request: GET /api/v1/services/14
+[2025-04-20 16:07:17] DEBUG: Processing request: GET /api/v1/services/14
+[2025-04-20 16:07:17] DEBUG: Processing request: GET /api/v1/services/14
+[2025-04-20 16:07:17] DEBUG: Processing request: GET /api/v1/services/14
+[2025-04-20 16:07:19] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:19] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:19] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:19] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:22] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:22] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:22] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:22] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:22] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:22] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:22] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:22] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:22] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:22] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:22] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:22] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:23] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:23] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:23] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:07:23] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:07:25] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:07:31] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:07:32] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:07:33] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:07:34] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:07:35] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:07:38] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:09:39] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:09:39] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:09:47] DEBUG: Processing request: GET /api/v1/about-us/
+[2025-04-20 16:09:47] WARNING: No route found for: GET /api/v1/about-us/
+[2025-04-20 16:09:54] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:10:25] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:41:24] INFO: Starting data synchronization process
+[2025-04-20 16:41:27] INFO: Data synchronization completed successfully
+[2025-04-20 16:41:34] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:41:41] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:41:42] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:41:43] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:41:46] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:41:57] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:41:59] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:43:25] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:43:25] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:43:34] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:43:38] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:43:39] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:43:40] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:45:00] INFO: Starting data synchronization process
+[2025-04-20 16:45:04] INFO: Data synchronization completed successfully
+[2025-04-20 16:46:18] INFO: Starting data synchronization process
+[2025-04-20 16:46:21] INFO: Data synchronization completed successfully
+[2025-04-20 16:47:28] INFO: Starting data synchronization process
+[2025-04-20 16:47:31] INFO: Data synchronization completed successfully
+[2025-04-20 16:49:13] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:49:17] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:53:29] INFO: Starting data synchronization process
+[2025-04-20 16:53:32] INFO: Data synchronization completed successfully
+[2025-04-20 16:53:49] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:53:51] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:53:52] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:53:55] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:56:17] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:56:57] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:56:57] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:57:01] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:57:01] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:57:01] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:57:01] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:57:02] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:57:02] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:57:02] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:57:02] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:57:02] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:57:02] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:57:02] DEBUG: Processing request: GET /api/v1/services/
+[2025-04-20 16:57:02] WARNING: No route found for: GET /api/v1/services/
+[2025-04-20 16:57:11] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 16:57:13] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:57:15] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 16:57:58] INFO: Starting data synchronization process
+[2025-04-20 16:58:00] INFO: Data synchronization completed successfully
+[2025-04-20 16:58:24] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 17:01:42] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 17:01:43] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 17:01:45] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 17:01:47] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 17:01:52] INFO: Starting data synchronization process
+[2025-04-20 17:01:55] INFO: Data synchronization completed successfully
+[2025-04-20 17:02:00] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 17:02:03] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 17:07:34] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 17:07:37] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 17:07:42] INFO: Starting data synchronization process
+[2025-04-20 17:07:46] INFO: Data synchronization completed successfully
+[2025-04-20 17:07:50] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 17:07:53] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 17:16:28] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:20:19] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:20:19] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:20:59] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:21:02] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:21:04] INFO: Starting data synchronization process
+[2025-04-20 20:21:07] INFO: Data synchronization completed successfully
+[2025-04-20 20:21:12] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:21:35] DEBUG: Processing request: GET /api/v1/about-us/1
+[2025-04-20 20:22:27] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:22:34] DEBUG: Processing request: GET /api/v1/about-us/1
+[2025-04-20 20:22:44] DEBUG: Processing request: POST /api/v1/about-us
+[2025-04-20 20:22:56] DEBUG: Processing request: GET /api/v1/about-us/
+[2025-04-20 20:22:56] WARNING: No route found for: GET /api/v1/about-us/
+[2025-04-20 20:22:59] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:23:10] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:23:10] DEBUG: Processing request: GET /api/v1/services/1
+[2025-04-20 20:23:34] INFO: Starting data synchronization process
+[2025-04-20 20:23:36] INFO: Data synchronization completed successfully
+[2025-04-20 20:23:46] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:23:56] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:24:12] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:26:50] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:26:50] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:32:51] DEBUG: Processing request: POST /api/v1/services
+[2025-04-20 20:32:58] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:37:36] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:38:00] DEBUG: Processing request: POST /api/v1/services
+[2025-04-20 20:38:06] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:38:20] DEBUG: Processing request: GET /api/v1/services/6
+[2025-04-20 20:38:45] DEBUG: Processing request: PUT /api/v1/services/6
+[2025-04-20 20:38:56] DEBUG: Processing request: GET /api/v1/services/6
+[2025-04-20 20:39:11] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:39:31] DEBUG: Processing request: DELETE /api/v1/services/6
+[2025-04-20 20:39:35] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:39:41] DEBUG: Processing request: POST /api/v1/about-us
+[2025-04-20 20:39:51] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:39:51] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:39:55] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:39:55] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:39:57] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:39:57] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:40:23] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:40:37] DEBUG: Processing request: GET /api/v1/about-us/5
+[2025-04-20 20:41:10] DEBUG: Processing request: PUT /api/v1/about-us/2
+[2025-04-20 20:41:17] DEBUG: Processing request: GET /api/v1/about-us/
+[2025-04-20 20:41:17] WARNING: No route found for: GET /api/v1/about-us/
+[2025-04-20 20:41:21] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:41:36] DEBUG: Processing request: DELETE /api/v1/about-us/5
+[2025-04-20 20:41:39] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:51:42] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:52:30] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:52:30] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:54:21] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:54:21] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:54:32] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:54:36] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:54:36] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:54:41] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:54:41] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:54:50] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:54:50] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:54:51] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:54:51] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:54:52] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:54:52] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:54:53] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:54:53] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:55:53] INFO: Starting data synchronization process
+[2025-04-20 20:55:56] INFO: Data synchronization completed successfully
+[2025-04-20 20:55:58] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:55:58] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:55:59] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:55:59] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:56:01] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 20:56:01] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:57:19] DEBUG: Processing request: POST /api/v1/about-us
+[2025-04-20 20:57:25] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:57:44] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 20:57:44] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 21:03:31] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 21:03:31] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 21:10:07] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 21:10:18] INFO: Starting data synchronization process
+[2025-04-20 21:10:21] INFO: Data synchronization completed successfully
+[2025-04-20 21:10:24] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 21:10:28] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 21:15:21] INFO: Starting data synchronization process
+[2025-04-20 21:15:25] INFO: Data synchronization completed successfully
+[2025-04-20 21:15:34] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 21:15:35] DEBUG: Processing request: GET /api/v1/about-us
+[2025-04-20 21:15:38] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 21:15:39] DEBUG: Processing request: GET /api/v1/services
+[2025-04-20 21:15:39] DEBUG: Processing request: GET /api/v1/services
